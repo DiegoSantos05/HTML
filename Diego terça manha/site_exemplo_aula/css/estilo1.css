@@ -1,0 +1,29 @@
+/* Inicio da programação CSS */
+body{background: yellow;
+	font-style: bold; 
+	color: pink;
+}
+
+p{color: blue;}
+
+h1,h3{
+
+
+}
+
+h1{font-style: italic; color:red;}
+
+h3{
+
+
+}
+/*Aplicando Id de HTML para CSS */
+#h1-titulo{text-align: center;
+}
+
+#para2{font-size: 25px; margin: 30px; margin-left: 200px}
+
+/*Marcador de Class é ponto */ 
+.primeiroterceiro{letter-spacing: 3px
+
+}
